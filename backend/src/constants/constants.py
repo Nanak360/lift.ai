@@ -1,0 +1,1 @@
+PINECONE_VECTOR_DB_INDEX_NAME = "lift-ai-vector-db"
